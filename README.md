@@ -1,5 +1,5 @@
-# MEAN tutorial
-A complete guide to creating your own app with the MEAN (MongoDB, Express, Angular, Node.js) stack.
+# MEAN Apz
+A complete guide to creating your own app with the MEAN (MongoDB, Express, Angular, Node.js) stack from a to z.
 
 With this tutorial, you'll learn how to:
 * Set up your own Express server
