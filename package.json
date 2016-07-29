@@ -1,0 +1,31 @@
+{
+  "name": "mean-apz",
+  "version": "1.0.0",
+  "description": "The complete guide to building a MEAN application from a to z.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo 'No test command specified.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultimagriever/mean-apz.git"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "angularjs",
+    "node.js"
+  ],
+  "author": "Pamela Argentino",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.1",
+    "dotenv": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ultimagriever/mean-apz/issues"
+  },
+  "homepage": "https://github.com/ultimagriever/mean-apz#readme"
+}
