@@ -1,0 +1,28 @@
+{
+  "name": "mean-apz",
+  "description": "The complete guide to building a MEAN application from a to z.",
+  "main": "server.js",
+  "authors": [
+    "Pamela Argentino"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mongodb",
+    "express",
+    "angularjs",
+    "node.js"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.7",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.7"
+  },
+  "homepage": "https://github.com/ultimagriever/mean-apz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
