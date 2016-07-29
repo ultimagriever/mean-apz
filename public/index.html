@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br" ng-app="employeesApp">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="ContentType" content="text-html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width; initial-scale=1" />
+
+        <style type="text/css">
+            body {
+                min-height: 2000px;
+                padding-top: 70px;
+            }
+        </style>
+
+        <link href="/css/3rd-party.css" type="text/css" rel="stylesheet" />
+        <script type="text/javascript" src="/js/3rd-party.js"></script>
+    </head>
+
+    <body>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <div class="navbar-brand" href="#/">Employee Registry</div>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="navbar-nav nav">
+                        <li class="active"><a href="#/">Home</a>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container" ng-view>
+            <h1>My first AngularJS 1.x app</h1>
+        </div>
+    </body>
+</html>
