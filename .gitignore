@@ -2,3 +2,6 @@
 !.env.example
 node_modules
 bower_components
+public/js/3rd-party.js
+public/css/3rd-party.css
+public/fonts/*
